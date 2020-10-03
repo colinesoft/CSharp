@@ -1,0 +1,13 @@
+C:\csFontes\Linguagens\c#\cedulas\bin\Debug\netcoreapp3.1\cedulas.exe
+C:\csFontes\Linguagens\c#\cedulas\bin\Debug\netcoreapp3.1\cedulas.deps.json
+C:\csFontes\Linguagens\c#\cedulas\bin\Debug\netcoreapp3.1\cedulas.runtimeconfig.json
+C:\csFontes\Linguagens\c#\cedulas\bin\Debug\netcoreapp3.1\cedulas.runtimeconfig.dev.json
+C:\csFontes\Linguagens\c#\cedulas\bin\Debug\netcoreapp3.1\cedulas.dll
+C:\csFontes\Linguagens\c#\cedulas\bin\Debug\netcoreapp3.1\cedulas.pdb
+C:\csFontes\Linguagens\c#\cedulas\obj\Debug\netcoreapp3.1\cedulas.csprojAssemblyReference.cache
+C:\csFontes\Linguagens\c#\cedulas\obj\Debug\netcoreapp3.1\cedulas.AssemblyInfoInputs.cache
+C:\csFontes\Linguagens\c#\cedulas\obj\Debug\netcoreapp3.1\cedulas.AssemblyInfo.cs
+C:\csFontes\Linguagens\c#\cedulas\obj\Debug\netcoreapp3.1\cedulas.csproj.CoreCompileInputs.cache
+C:\csFontes\Linguagens\c#\cedulas\obj\Debug\netcoreapp3.1\cedulas.dll
+C:\csFontes\Linguagens\c#\cedulas\obj\Debug\netcoreapp3.1\cedulas.pdb
+C:\csFontes\Linguagens\c#\cedulas\obj\Debug\netcoreapp3.1\cedulas.genruntimeconfig.cache

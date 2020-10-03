@@ -1,0 +1,13 @@
+C:\csFontes\Linguagens\c#\maior\bin\Debug\netcoreapp3.1\maior.exe
+C:\csFontes\Linguagens\c#\maior\bin\Debug\netcoreapp3.1\maior.deps.json
+C:\csFontes\Linguagens\c#\maior\bin\Debug\netcoreapp3.1\maior.runtimeconfig.json
+C:\csFontes\Linguagens\c#\maior\bin\Debug\netcoreapp3.1\maior.runtimeconfig.dev.json
+C:\csFontes\Linguagens\c#\maior\bin\Debug\netcoreapp3.1\maior.dll
+C:\csFontes\Linguagens\c#\maior\bin\Debug\netcoreapp3.1\maior.pdb
+C:\csFontes\Linguagens\c#\maior\obj\Debug\netcoreapp3.1\maior.csprojAssemblyReference.cache
+C:\csFontes\Linguagens\c#\maior\obj\Debug\netcoreapp3.1\maior.AssemblyInfoInputs.cache
+C:\csFontes\Linguagens\c#\maior\obj\Debug\netcoreapp3.1\maior.AssemblyInfo.cs
+C:\csFontes\Linguagens\c#\maior\obj\Debug\netcoreapp3.1\maior.csproj.CoreCompileInputs.cache
+C:\csFontes\Linguagens\c#\maior\obj\Debug\netcoreapp3.1\maior.dll
+C:\csFontes\Linguagens\c#\maior\obj\Debug\netcoreapp3.1\maior.pdb
+C:\csFontes\Linguagens\c#\maior\obj\Debug\netcoreapp3.1\maior.genruntimeconfig.cache

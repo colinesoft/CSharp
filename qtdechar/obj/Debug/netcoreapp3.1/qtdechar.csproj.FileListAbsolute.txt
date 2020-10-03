@@ -1,0 +1,13 @@
+C:\csFontes\Linguagens\c#\qtdechar\bin\Debug\netcoreapp3.1\qtdechar.exe
+C:\csFontes\Linguagens\c#\qtdechar\bin\Debug\netcoreapp3.1\qtdechar.deps.json
+C:\csFontes\Linguagens\c#\qtdechar\bin\Debug\netcoreapp3.1\qtdechar.runtimeconfig.json
+C:\csFontes\Linguagens\c#\qtdechar\bin\Debug\netcoreapp3.1\qtdechar.runtimeconfig.dev.json
+C:\csFontes\Linguagens\c#\qtdechar\bin\Debug\netcoreapp3.1\qtdechar.dll
+C:\csFontes\Linguagens\c#\qtdechar\bin\Debug\netcoreapp3.1\qtdechar.pdb
+C:\csFontes\Linguagens\c#\qtdechar\obj\Debug\netcoreapp3.1\qtdechar.csprojAssemblyReference.cache
+C:\csFontes\Linguagens\c#\qtdechar\obj\Debug\netcoreapp3.1\qtdechar.AssemblyInfoInputs.cache
+C:\csFontes\Linguagens\c#\qtdechar\obj\Debug\netcoreapp3.1\qtdechar.AssemblyInfo.cs
+C:\csFontes\Linguagens\c#\qtdechar\obj\Debug\netcoreapp3.1\qtdechar.csproj.CoreCompileInputs.cache
+C:\csFontes\Linguagens\c#\qtdechar\obj\Debug\netcoreapp3.1\qtdechar.dll
+C:\csFontes\Linguagens\c#\qtdechar\obj\Debug\netcoreapp3.1\qtdechar.pdb
+C:\csFontes\Linguagens\c#\qtdechar\obj\Debug\netcoreapp3.1\qtdechar.genruntimeconfig.cache

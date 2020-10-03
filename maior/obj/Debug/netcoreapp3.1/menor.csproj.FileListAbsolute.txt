@@ -1,0 +1,13 @@
+C:\csFontes\Linguagens\c#\menor\bin\Debug\netcoreapp3.1\menor.exe
+C:\csFontes\Linguagens\c#\menor\bin\Debug\netcoreapp3.1\menor.deps.json
+C:\csFontes\Linguagens\c#\menor\bin\Debug\netcoreapp3.1\menor.runtimeconfig.json
+C:\csFontes\Linguagens\c#\menor\bin\Debug\netcoreapp3.1\menor.runtimeconfig.dev.json
+C:\csFontes\Linguagens\c#\menor\bin\Debug\netcoreapp3.1\menor.dll
+C:\csFontes\Linguagens\c#\menor\bin\Debug\netcoreapp3.1\menor.pdb
+C:\csFontes\Linguagens\c#\menor\obj\Debug\netcoreapp3.1\menor.csprojAssemblyReference.cache
+C:\csFontes\Linguagens\c#\menor\obj\Debug\netcoreapp3.1\menor.AssemblyInfoInputs.cache
+C:\csFontes\Linguagens\c#\menor\obj\Debug\netcoreapp3.1\menor.AssemblyInfo.cs
+C:\csFontes\Linguagens\c#\menor\obj\Debug\netcoreapp3.1\menor.csproj.CoreCompileInputs.cache
+C:\csFontes\Linguagens\c#\menor\obj\Debug\netcoreapp3.1\menor.dll
+C:\csFontes\Linguagens\c#\menor\obj\Debug\netcoreapp3.1\menor.pdb
+C:\csFontes\Linguagens\c#\menor\obj\Debug\netcoreapp3.1\menor.genruntimeconfig.cache

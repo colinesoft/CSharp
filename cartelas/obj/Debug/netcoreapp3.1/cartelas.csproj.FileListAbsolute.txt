@@ -1,0 +1,13 @@
+C:\csFontes\Linguagens\c#\cartelas\bin\Debug\netcoreapp3.1\cartelas.exe
+C:\csFontes\Linguagens\c#\cartelas\bin\Debug\netcoreapp3.1\cartelas.deps.json
+C:\csFontes\Linguagens\c#\cartelas\bin\Debug\netcoreapp3.1\cartelas.runtimeconfig.json
+C:\csFontes\Linguagens\c#\cartelas\bin\Debug\netcoreapp3.1\cartelas.runtimeconfig.dev.json
+C:\csFontes\Linguagens\c#\cartelas\bin\Debug\netcoreapp3.1\cartelas.dll
+C:\csFontes\Linguagens\c#\cartelas\bin\Debug\netcoreapp3.1\cartelas.pdb
+C:\csFontes\Linguagens\c#\cartelas\obj\Debug\netcoreapp3.1\cartelas.csprojAssemblyReference.cache
+C:\csFontes\Linguagens\c#\cartelas\obj\Debug\netcoreapp3.1\cartelas.AssemblyInfoInputs.cache
+C:\csFontes\Linguagens\c#\cartelas\obj\Debug\netcoreapp3.1\cartelas.AssemblyInfo.cs
+C:\csFontes\Linguagens\c#\cartelas\obj\Debug\netcoreapp3.1\cartelas.csproj.CoreCompileInputs.cache
+C:\csFontes\Linguagens\c#\cartelas\obj\Debug\netcoreapp3.1\cartelas.dll
+C:\csFontes\Linguagens\c#\cartelas\obj\Debug\netcoreapp3.1\cartelas.pdb
+C:\csFontes\Linguagens\c#\cartelas\obj\Debug\netcoreapp3.1\cartelas.genruntimeconfig.cache
