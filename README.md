@@ -12,9 +12,12 @@ C# Repository files
   De acordo com os valores de cédulas válidos [50, 20, 10, 5, 1] o algoritmo vai retornar o mínimo de cédulas necessárias para representar o valor.
   
   <h2>maior</h2> 
-  Informa a menor qtde de cédulas para um dado valor.
+  Dado um valor inteiro, o algoritmo reorganiza para o o próximo inteiro imediatemente maior ao que foi informado.
   
-  De acordo com os valores de cédulas válidos [50, 20, 10, 5, 1] o algoritmo vai retornar o mínimo de cédulas necessárias para representar o valor.
+  <h2>menor</h2> 
+  Dado um valor inteiro, o algoritmo reorganiza para o menor valor possível com os mesmos numeros.
+  
+  
   
    
   
