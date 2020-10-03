@@ -18,6 +18,9 @@ C# Repository files
   Dado um valor inteiro, o algoritmo reorganiza para o menor valor possível com os mesmos numeros.
   
   
+  <h2>qtdechar</h2> 
+  Avalia um string e retorna a qtde do caractere que mais se repetiu.
   
+    
    
   
